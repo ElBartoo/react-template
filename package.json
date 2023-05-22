@@ -114,7 +114,7 @@
     "less": "^4.1.1",
     "less-loader": "7.3.0",
     "lodash-es": "4.17.21",
-    "minimist": "1.2.3",
+    "minimist": "1.2.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-redux": "7.0.2",
